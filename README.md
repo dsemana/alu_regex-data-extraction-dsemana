@@ -50,7 +50,7 @@ This project extracts structured data from raw text input using **JavaScript and
   "phoneNumbers": ["250***123456", "250***123456"],
   "creditCards": ["****-****-****-6467", "****-****-****-6467"]
 }
-
+---
 ## How to Run
 
 Follow these steps to execute the data extraction program:
