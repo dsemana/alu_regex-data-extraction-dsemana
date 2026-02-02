@@ -1,0 +1,18 @@
+{
+  "emails": [
+    "di***@gmail.com",
+    "di***@students.alu.edu"
+  ],
+  "urls": [
+    "https://www.example.com",
+    "http://subdomain.company.co.uk/page?id=42"
+  ],
+  "phoneNumbers": [
+    "250***123456",
+    "250***123456"
+  ],
+  "creditCards": [
+    "****-****-****-6467",
+    "****-****-****-6467"
+  ]
+}
