@@ -60,15 +60,15 @@ Follow these steps to execute the data extraction program:
 
 2. **Clone the repository**  
 ```bash
-"git" clone https://github.com/dsemana/alu_regex-data-extraction-dsemana.git
+git clone https://github.com/dsemana/alu_regex-data-extraction-dsemana.git
 ```
 
 3. **Navigate to the project folder**
 ```bash
-"cd" alu_regex-data-extraction-dsemana
+cd alu_regex-data-extraction-dsemana
 ```
 
 4. **Run the script**
 ```bash
-"node" script.js
+node script.js
 ```
