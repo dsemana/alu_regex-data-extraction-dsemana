@@ -50,3 +50,22 @@ This project extracts structured data from raw text input using **JavaScript and
   "phoneNumbers": ["250***123456", "250***123456"],
   "creditCards": ["****-****-****-6467", "****-****-****-6467"]
 }
+
+## How to Run
+
+Follow these steps to execute the data extraction program:
+
+1. **Install Node.js**  
+   Make sure [Node.js](https://nodejs.org/) is installed on your system.
+
+2. **Clone the repository**  
+```bash
+git clone https://github.com/dsemana/alu_regex-data-extraction-dsemana.git
+
+3. **Navigate to the project folder**
+```bash
+cd alu_regex-data-extraction-dsemana.git
+
+4. **Run the script**
+```bash
+node script.js
