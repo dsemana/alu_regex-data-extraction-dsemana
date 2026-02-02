@@ -1,0 +1,48 @@
+API RESPONSE LOG — 2026-01-28 14:32:10
+
+User registration received from IP 197.157.21.44.
+Primary contact: divin.semana@gmail.com
+Backup email provided: divin_semana99@students.alu.edu
+Invalid email detected: divin@@gmail..com (ignored)
+
+Customer website URLs:
+- https://www.example.com
+- http://subdomain.company.co.uk/page?id=42
+- javascript:alert('Hacked')   <-- suspicious, should be ignored
+- www.fake-site
+
+Phone numbers collected during onboarding:
+Office line: (250) 788-123-456
+Personal number: 250-788-123-456
+WhatsApp: 250.788.123.456
+Broken number: 25078-812 (invalid)
+
+Payment attempt details:
+Card entered: 4539 1488 0343 6467
+Alternate format: 4539-1488-0343-6467
+Rejected card: 1234 567 (too short)
+
+Transaction amounts:
+- $19.99
+- $1,234.56
+- USD 3000 (invalid format)
+
+Scheduled meeting times:
+- 14:30
+- 2:45 PM
+- 25:61 (invalid time)
+
+HTML content snippet received:
+<div class="profile">
+  <p>User bio updated successfully</p>
+  <img src="avatar.jpg" alt="Profile picture">
+</div>
+
+Suspicious HTML attempt:
+<script>alert('XSS attack')</script>
+
+Social media tags found in feedback:
+#Productivity #WorkLifeBalance #2026Goals
+Invalid hashtag: #too-long-hashtag-with-symbols!!!
+
+End of response.
